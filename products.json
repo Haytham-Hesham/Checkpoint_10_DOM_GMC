@@ -1,0 +1,38 @@
+[
+    {
+        "id": "item1",
+        "name": "Davidoff cool water",
+        "price": 1267,
+        "image": "https://m.media-amazon.com/images/I/51AmJCSkOoL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id": "item2",
+        "name": "Oud Mood Elixir perfume",
+        "price": 650,
+        "image": "https://m.media-amazon.com/images/I/81rpb5n69QL._SL1500_.jpg"
+    },
+    {
+        "id": "item3",
+        "name": "Jaguar Classic Black perfume",
+        "price": 842,
+        "image": "https://m.media-amazon.com/images/I/61yeUg2oKSL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id": "item4",
+        "name": "Bleu de Chanel for Men",
+        "price": 9562,
+        "image": "https://m.media-amazon.com/images/I/41ewlGMNlZL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id": "item5",
+        "name": "Sauvage perfume by Dior",
+        "price": 4709,
+        "image": "https://m.media-amazon.com/images/I/510MKSsy--L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id": "item6",
+        "name": "Eros perfume by Versace",
+        "price": 5365,
+        "image": "https://m.media-amazon.com/images/I/71I33Ob9-LL._AC_UF1000,1000_QL80_.jpg"
+    }
+]
